@@ -1,0 +1,25 @@
+# Analisis & Peramalan Penjualan Percetakan
+# Instalasi: pip install -r requirements.txt
+
+# Pengolahan data
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Visualisasi
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Time series & pemodelan
+statsmodels>=0.14.0
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+prophet>=1.1.5
+
+# Dashboard
+streamlit>=1.30.0
+
+# Notebook (opsional, jika dijalankan lokal dan bukan di Colab)
+jupyter>=1.0.0
+ipykernel>=6.25.0

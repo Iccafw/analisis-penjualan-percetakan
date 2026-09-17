@@ -1,0 +1,9 @@
+# requirements.txt — khusus untuk deploy dashboard di Streamlit Community Cloud
+# Sengaja TIDAK memuat prophet, xgboost, jupyter (berat, hanya dipakai notebook)
+# Untuk menjalankan notebook, pakai requirements-notebook.txt
+
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+statsmodels>=0.14.0
+streamlit>=1.30.0
