@@ -60,8 +60,7 @@ teratas menyumbang 77,4% pendapatan.
 ├── requirements-notebook.txt               # Untuk menjalankan notebook (lokal/Colab)
 ├── Analisis_Penjualan_Percetakan.ipynb    # Notebook analisis lengkap (15 bagian)
 ├── app.py                                  # Dashboard Streamlit
-└── data/
-    └── data_penjualan.csv                  # Dataset (pemisah titik koma)
+
 ```
 
 ---
