@@ -200,5 +200,4 @@ bukan sebagai angka mutlak.
 
 ## Sumber Data
 
-[Data penjualan harian perusahaan percetakan, dipublikasikan untuk keperluan edukasi
-dan penelitian. Informasi sensitif telah dihapus oleh penyedia data] (https://www.kaggle.com/datasets/jabirmuktabir/data-penjualan-produk-cetakan)
+(https://www.kaggle.com/datasets/jabirmuktabir/data-penjualan-produk-cetakan)
