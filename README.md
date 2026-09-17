@@ -68,22 +68,6 @@ teratas menyumbang 77,4% pendapatan.
 
 ## Cara Menjalankan
 
-### Notebook
-
-**Google Colab (disarankan):**
-1. Buka [colab.research.google.com](https://colab.research.google.com)
-2. `File` → `Upload notebook` → pilih `Analisis_Penjualan_Percetakan.ipynb`
-3. Jalankan sel dari atas; sel kedua akan meminta unggahan `data_penjualan.csv`
-
-**Lokal:**
-```bash
-pip install -r requirements-notebook.txt
-jupyter notebook Analisis_Penjualan_Percetakan.ipynb
-```
-
-> Catatan: sel instalasi Prophet memakan waktu 2–3 menit, dan grid search SARIMA
-> sekitar 3–5 menit. Backtesting rolling-origin juga perlu beberapa menit.
-
 ### Dashboard
 
 **Lokal:**
